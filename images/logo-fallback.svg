@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50" width="240" height="50">
+  <rect width="240" height="50" fill="none"/>
+  <!-- Xr -->
+  <circle cx="25" cy="25" r="20" fill="#F26522"/>
+  <text x="25" y="31" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="900" fill="#fff">L</text>
+  <!-- ‡W -->
+  <text x="54" y="20" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#1C1C2E">LEADER</text>
+  <text x="54" y="36" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#F26522">IMPACT</text>
+</svg>
